@@ -17,6 +17,17 @@ Utilice las herramientas y técnicas estudiadas para dar mantenimiento a esta ap
 ```
 gradle test
 ```
+* Desinstalar/Instalar gradle
+
+En caso de mal funcionamiento de gradle se puede desintalar/instalar:
+```
+sdk uninstall gradle 8.0.2
+sdk install gradle
+```
+* Gradle disponibles en la máquina virtual
+```
+sdk list gradle
+```
 * Por cada cambio importante que haga, actualice su historia usando los comandos:
 
 ```
