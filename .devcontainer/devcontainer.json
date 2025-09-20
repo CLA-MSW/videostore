@@ -1,0 +1,13 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"vscjava.vscode-java-pack",
+				"bierner.markdown-mermaid",
+				"esbenp.prettier-vscode",
+				"mhutchie.git-graph"
+			]
+		}
+	}
+}
